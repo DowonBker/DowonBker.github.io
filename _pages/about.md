@@ -24,8 +24,29 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+## 안녕하세요! 👋
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+프로그래밍과 소프트웨어 개발을 공부하고 있습니다.
+
+C/C++, Python을 중심으로 알고리즘 문제 해결과
+개인 프로젝트 개발을 진행하고 있습니다.
+
+## Skills
+
+- Languages: C, C++, Python
+- Tools: Git, GitHub, VS Code
+
+## Projects
+
+- **Epic Seven Speed Gear Calculator**
+  - C 언어 기반 확률 계산 프로그램
+
+- **BOJ Solutions**
+  - 백준 알고리즘 문제 풀이 기록
+
+## Interests
+
+다양한 개발 분야를 경험하며 관심 분야를 탐색하고,
+새로운 기술을 학습하는 것을 목표로 하고 있습니다.
+
