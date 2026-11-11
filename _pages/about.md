@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: 국립부경대학교 | 컴퓨터인공지능공학부
 
 profile:
   align: right
