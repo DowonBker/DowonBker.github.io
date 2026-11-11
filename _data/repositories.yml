@@ -1,4 +1,6 @@
 github_users:
   - DowonBker
 
-github_repos: []
+github_repos: 
+  - DowonBker/EpicSeven-SpeedGearCalc
+  - DowonBker/BOJ-in-army
